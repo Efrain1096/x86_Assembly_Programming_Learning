@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SimpleAddition",
+    "\\SimpleAddition\\SimpleAddition"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\SimpleAddition\\SimpleAddition\\Main.asm",
   "PreviewInSolutionExplorer": false
 }
