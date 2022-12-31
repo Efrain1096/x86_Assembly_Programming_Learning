@@ -1,0 +1,8 @@
+﻿  Assembling DivMul.asm...
+DivMul.asm(1): error A2008: syntax error : .
+DivMul.asm(2): error A2008: syntax error : .
+DivMul.asm(15): error A2070: invalid instruction operands
+DivMul.asm(17): error A2070: invalid instruction operands
+DivMul.asm(46): error A2070: invalid instruction operands
+DivMul.asm(47): error A2070: invalid instruction operands
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\DivMul.obj" /W3 /errorReport:prompt  /TaDivMul.asm" exited with code 1.
