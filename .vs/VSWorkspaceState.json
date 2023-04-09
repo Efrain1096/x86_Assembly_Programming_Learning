@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ArraySum"
   ],
-  "SelectedNode": "\\SignedDivMul",
+  "SelectedNode": "\\ArraySum\\ArraySum.sln",
   "PreviewInSolutionExplorer": false
 }
