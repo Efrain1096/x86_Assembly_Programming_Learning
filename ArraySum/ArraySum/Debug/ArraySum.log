@@ -1,3 +1,1 @@
-﻿  Assembling Main.asm...
-Main.asm(20): warning A4023: with /coff switch, leading underscore required for start address : start
-  ArraySum.vcxproj -> C:\Users\efrai\source\repos\Assembly_Language\ArraySum\Debug\ArraySum.exe
+﻿  ArraySum.vcxproj -> C:\Users\efrai\Documents\Repositories\Assembly\x86_Assembly_Programming_Learning\ArraySum\Debug\ArraySum.exe
