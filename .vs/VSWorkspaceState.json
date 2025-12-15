@@ -1,11 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ArraySum",
-    "\\ArraySum\\ArraySum",
-    "\\DataScan",
-    "\\DataScan\\DataScan"
+    ""
   ],
-  "SelectedNode": "\\DataScan\\DataScan\\Main.asm",
   "PreviewInSolutionExplorer": false
 }
