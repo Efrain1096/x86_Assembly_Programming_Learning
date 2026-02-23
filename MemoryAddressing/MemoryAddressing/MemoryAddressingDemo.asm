@@ -23,16 +23,16 @@ MemoryAddressing  proc
 		 push esi
 		 push edi
 
-
-		 xor eax,eax
-		 mov ecx,[ebp+8]		; ecx =i
+		 ; Make sure 'i' is valid
+		 xor eax,eax ; Set the register to zero to ensure that register EAX contains the correct return code should an invalid value for argument count be detected.
+		 mov ecx,[ebp+8]		; ecx = i
 		 cmp ecx,0
-		 jl InvalidIndex
+		 jl InvalidIndex ; If i < 0
 		 cmp ecx,[fibValuesCount]
-		 jge  InvalidIndex
+		 jge  InvalidIndex ; If i > fibValuesCount
 
 ;Eg1 -base register
-		mov ebx, offset FibVals		;ebx  =FibVals
+		mov ebx, offset FibVals		;ebx  = FibVals
 		mov esi,[ebp+8]				; esi =i
 		shl esi,2					; esi =i*4
 		add ebx,esi					;ebx = FibVals + i*4
