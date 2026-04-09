@@ -1,8 +1,6 @@
 
 
 #include <iostream>
-
-
 /* The A and B versions will be done through different methods in the assemble code.*/
 
 extern "C" int SignedMinA(int a, int b, int c);
@@ -11,17 +9,11 @@ extern "C" int SignedMaxA(int a, int b, int c);
 extern "C" int SignedMinB(int a, int b, int c);
 extern "C" int SignedMaxB(int a, int b, int c);
 
-
-
-
-
 int main()
 {
 	int a, b, c;
 
 	int max_a, min_a, max_b, min_b;
-
-
 
 	a = 345;
 	b = -783;
@@ -38,12 +30,6 @@ int main()
 
 	printf("SignedMinB(%4d, %4d, %4d) = %4d\n", a, b, c, min_b);
 	printf("SignedMaxB(%4d, %4d, %4d) = %4d\n", a, b, c, max_b);
-
-
-
-
-
-
 
 	return 0;
 }

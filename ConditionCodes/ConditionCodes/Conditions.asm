@@ -54,9 +54,6 @@ SignedMaxA	proc
 
 SignedMaxA	endp
 
-
-
-
 ; Find min B.
 
 SignedMinB	proc
@@ -95,4 +92,3 @@ SignedMaxB	proc
 
 SignedMaxB	endp
 	end
-
