@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CalculateSum\\CalculateSum",
+    "\\DataScan\\DataScan"
   ],
-  "SelectedNode": "\\CalculateSum",
   "PreviewInSolutionExplorer": false
 }
