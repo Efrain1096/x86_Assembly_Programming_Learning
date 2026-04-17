@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CalculateSum\\CalculateSum",
+    "\\ArrayElementsAccess\\ArrayElementsAccess",
+    "\\DataScan",
     "\\DataScan\\DataScan"
   ],
+  "SelectedNode": "\\DataScan\\DataScan.sln",
   "PreviewInSolutionExplorer": false
 }
