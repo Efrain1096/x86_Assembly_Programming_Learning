@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\ArrayElementsAccess",
-    "\\ArraySum",
-    "\\CalculateSum\\CalculateSum"
+    "\\ArrayElementsAccess\\ArrayElementsAccess",
+    "\\ArraySum"
   ],
-  "SelectedNode": "\\ArrayElementsAccess\\ArrayElementsAccess.sln",
+  "SelectedNode": "\\ArrayElementsAccess\\ArrayElementsAccess\\CalculateArraySum.ASM",
   "PreviewInSolutionExplorer": false
 }
