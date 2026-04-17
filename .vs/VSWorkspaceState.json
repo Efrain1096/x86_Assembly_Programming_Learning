@@ -1,10 +1,18 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\ArrayElementsAccess\\ArrayElementsAccess",
     "\\DataScan",
     "\\DataScan\\DataScan"
   ],
   "SelectedNode": "\\DataScan\\DataScan.sln",
+=======
+    "\\ArrayElementsAccess",
+    "\\ArrayElementsAccess\\ArrayElementsAccess",
+    "\\ArraySum"
+  ],
+  "SelectedNode": "\\ArrayElementsAccess\\ArrayElementsAccess\\CalculateArraySum.ASM",
+>>>>>>> Array-Elements-Access
   "PreviewInSolutionExplorer": false
 }
