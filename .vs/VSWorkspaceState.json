@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ArrayElementsAccess",
     "\\ArrayElementsAccess\\ArrayElementsAccess"
   ],
-  "SelectedNode": "\\ArrayElementsAccess\\ArrayElementsAccess.sln",
+  "SelectedNode": "\\ArrayElementsAccess",
   "PreviewInSolutionExplorer": false
 }
