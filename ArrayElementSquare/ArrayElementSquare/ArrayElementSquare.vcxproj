@@ -152,10 +152,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ArrayElementSquare.cpp" />
+    <ClCompile Include="ArrayElementSquares.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="SquareCalculator.asm" />
+    <MASM Include="SquareCalculator.asm">
+      <FileType>Document</FileType>
+    </MASM>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
