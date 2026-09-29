@@ -10,9 +10,9 @@ CalcArraySquaresASM proc
 	push edi
 
 	; Load arguments
-	mov edi, [ebp + 8]
-	mov	esi, [ebp + 12]
-	mov ecx, [ebp + 16]
+	mov edi, [ebp + 8] ; *x
+	mov	esi, [ebp + 12] ; *y
+	mov ecx, [ebp + 16] ; n
 
 
 	xor eax, eax	; eax= sum of 'y' array
